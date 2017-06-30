@@ -2,6 +2,7 @@
   "lockfileVersion": 1,
   "dependencies": {
     "lodash": "^4.17.4",
-    "vue": "^2.3.4"
+    "vue": "^2.3.4",
+    "vue-cli": "^2.8.2"
   }
 }
